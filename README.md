@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ting-Xuan Li
+- 👋 Hi, I’m Ting-Xuan Li.
 - 👀 I’m interested in physics, especially in astrophysics and theoretical physics.
 - 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on ...
